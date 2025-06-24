@@ -16,7 +16,7 @@ const CONFIG = {
   VIDEO_API: {
     URL: "https://api.pexels.com/videos/search",
     KEY: "LheAUrfMJy1dTZjpYmMnNqc8EZI8vXPHP4RAUmmctzTSdEqqqPBCP6tz",  
-    FALLBACK_VIDEOS: ["video0.mp4", "video1.mp4", "video2.mp4","video3.mp4","video4.mp4","video5.mp4"]
+    FALLBACK_VIDEOS: ["video0.mp4"]
   },
   END_QUOTE:{
     QUOTES:[ "One moment.One win ✨💛🌿"
